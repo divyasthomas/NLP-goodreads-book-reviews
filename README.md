@@ -1,0 +1,1 @@
+Natural language processing of goodreads book reviews. Performed sentiment analysis on book reviews and compared it to the actual user rating in Python. Computed polarity scores using TextBlot and VADER, transformed text into Vector representations using TF-IDF and Doc2Vec. Created Churn plots for various classification models to select the best one.
